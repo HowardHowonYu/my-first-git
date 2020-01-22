@@ -22,7 +22,9 @@ This is my first git repository.
 ## Installation & How to use git
 
 1.`$ apt-get install git `
+
 2 `$ git init `
+
 3.`$ git add <filename>` -> `$ git commit` -> `$ git push`
 
 `<a herf="https://github.com">Go to Github</a>`
